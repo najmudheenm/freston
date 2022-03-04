@@ -35,7 +35,7 @@ function App() {
   }, [dispatch]);
   useEffect(() => {
     if(admin.token){
-      setCookie('Token', admin.token, { path: '/' })
+      // setCookie('Token', admin.token, { path: '/' })
     }
 
   }, [admin,setCookie]);
