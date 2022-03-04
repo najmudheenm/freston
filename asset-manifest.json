@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/freston/static/css/main.0f572fe2.css",
-    "main.js": "/freston/static/js/main.509a4c78.js",
+    "main.js": "/freston/static/js/main.7c0456f0.js",
     "index.html": "/freston/index.html",
     "static/media/location.svg": "/freston/static/media/location.018a797f4d39ee0ecbc8431bcbb5606d.svg",
     "main.0f572fe2.css.map": "/freston/static/css/main.0f572fe2.css.map",
-    "main.509a4c78.js.map": "/freston/static/js/main.509a4c78.js.map"
+    "main.7c0456f0.js.map": "/freston/static/js/main.7c0456f0.js.map"
   },
   "entrypoints": [
     "static/css/main.0f572fe2.css",
-    "static/js/main.509a4c78.js"
+    "static/js/main.7c0456f0.js"
   ]
 }
